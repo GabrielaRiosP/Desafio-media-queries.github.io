@@ -81,10 +81,6 @@ body {
     color: black;
 }
 
-.main> .pagination-destock {
-    display: none;
-}
-
 .footer {
     grid-area: footer;
     background-color:  rgb(100, 8, 100);
