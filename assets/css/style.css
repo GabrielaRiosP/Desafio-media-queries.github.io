@@ -81,6 +81,9 @@ body {
     color: black;
 }
 
+.main> .pagination-destock {
+    display: none;
+}
 
 .footer {
     grid-area: footer;
